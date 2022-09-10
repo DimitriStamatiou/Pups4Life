@@ -48,6 +48,21 @@ body {
   font-size: 60;
 }
 
+#createPost {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+#postsContainer {
+  background-color: antiquewhite;
+  margin-top: 20px;
+  margin-right: 10%;
+  margin-left: 10%;
+  height: 800px; /* Placeholder for now */
+}
+
 #loginButtons {
   margin-left: 90%;
   display: flex;
