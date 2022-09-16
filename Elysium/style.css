@@ -1,0 +1,347 @@
+
+body{
+    background-color: lightsteelblue;
+}
+
+
+#mainmenu li{
+
+    display:inline;
+    list-style-type:none;
+    padding:0.50em;
+    margin: 0.3em;
+    text-align: center;
+    background-color:lightyellow;
+    font-size: 20px;  
+
+}
+        a:hover{
+            color:red
+        }
+#welcome{
+    background-color: honeydew;
+    padding-bottom: 25em;
+    padding-top: 5em;
+
+}
+#logo1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:200px;
+}
+p {
+    color: darkmagenta;
+    margin-right: 50em;
+    
+ 
+}
+li{
+    font-weight: bold;
+    color:darkred;
+    
+}
+
+p1{
+    color: darkred;
+    font-size: 20px;
+
+}
+p2{
+    color: darkred;
+    font-size: 20px;
+}
+
+h1{
+
+    color:purple;
+    font-size: 50px;
+    text-align: center;
+
+}
+
+h2 {
+    color:yellow;
+    font-size: 30px;
+    padding-top:1em;
+}
+
+
+
+
+.img1{
+    float:left;
+    padding-right:3em;
+    width: 40%;
+
+
+    
+}
+.para1{   
+margin-top: 6em;
+
+}
+
+.img2{
+    float:right;
+    padding-right:3em;
+    width: 40%;
+    padding-top:23em;
+
+}
+
+.para2{   
+    
+margin-top: 30em;
+    
+    
+    }
+
+
+
+.pic1 {
+    box-sizing: border-box;
+    width: 80%;
+    padding-top:5em;
+    padding-left: 5em;
+ 
+}
+
+.pic2 {
+    box-sizing: border-box;
+    width: 85%;
+    padding-top:5em;
+ 
+}
+
+.Menu1{
+    display: flex;
+}
+
+.subMenu{
+    flex:1;
+}
+
+p3{
+    color:brown;
+    padding-left: 3em;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+p4{
+    padding-left: 4em;
+    padding-bottom: 30em;
+    font-size: 20px;
+}
+
+p5{
+    color:brown;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+p6{
+    padding-bottom: 30em;
+    font-size: 20px;
+}
+#foodimg1{
+    float: left;  
+    padding-right:1em;  
+    width: 30%;
+
+}
+.food1{
+    font-size: larger;
+    padding:0.5em;
+    width: 65em;
+}
+
+#item2{
+    padding-top:10em;
+}
+#foodimg2{
+    padding-right:20em;
+    float:left; 
+    
+    padding-right:1em;  
+    width: 30%;
+
+}
+
+#foodimg3{
+    padding-right:20em;
+    float:left; 
+    
+    padding-right:1em;  
+    width: 30%;
+
+}
+#item3{
+    padding-top:15em;
+}
+
+.drink1{
+    font-size: larger;
+    padding:0.5em;
+    width: 65em;
+}
+
+#drinkimg1{
+    
+    float:left; 
+    padding-right:1em;  
+    width: 30%;
+
+}
+
+#drinkimg2{
+
+    float:left; 
+    
+    padding-right:1em;  
+    width: 30%;
+
+}
+
+#drinkimg3{
+
+    float:left; 
+    
+    padding-right:1em;  
+    width: 30%;
+}
+
+#item5{
+    padding-top:15em;
+}
+
+#form{
+    outline-style: solid;
+    margin-right:90em;
+    padding: 2em;
+    background-color: burlywood;
+}
+.form1{
+    padding:0.4em;
+    font-weight: bold;
+    font-size: larger;
+    
+}
+
+.details1{
+    padding-top:1em;
+    padding-bottom:1em;
+    font-size: larger;
+    color:black;
+}
+
+h3 {
+    color:yellow;
+    font-size: 30px;
+    padding-top:1em;
+}
+
+
+#returnL1{
+    padding-top:20em; 
+
+}
+
+
+.table{
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 70em;
+    height: 20em;
+    text-align: left;
+    padding: 10px;
+    font-style: serif;
+
+    
+}
+.table thead{
+    border: 3px solid black;
+    background-color: azure;
+
+}
+.table tbody{
+    border: 1px solid black;
+    background-color: beige;
+
+}
+.table td{
+    border: 1px solid black;
+    width: 30em;
+    padding:2em;    
+}
+.table tr{
+    border: 1px solid black;
+
+}
+.table th{
+    border: 1px solid black;
+
+}
+
+
+.table1{
+    border-collapse: collapse;
+    border: 1px solid black;
+    height: 20em;
+    text-align: left;
+    padding: 10px;
+    font-style: serif;
+    
+}
+.table1 thead{
+    border: 3px solid black;
+    background-color: azure;
+
+}
+.table1 tbody{
+    border: 1px solid black;
+    background-color: beige;
+
+}
+.table1 td{
+    border: 1px solid black;
+
+    padding:2em;    
+}
+.table1 tr{
+    border: 1px solid black;
+
+}
+.table1 th{
+    border: 1px solid black;
+
+}
+
+.Blabel{
+    font-weight: bold;
+    color:blueviolet;
+    padding-bottom: 0.3em;
+    padding-top:1em;
+}
+
+
+.form3{
+     padding-bottom:1em ;
+     
+
+ }
+ .con1{
+     font-weight: bold;
+     padding: 1em;
+     font-size: larger;
+     background-color:honeydew;
+     margin-right:70em ;
+ }
+
+ #Pform{
+    outline-style: solid;
+    margin-right:50em;
+    padding: 2em;
+    background-color: gainsboro;
+}
